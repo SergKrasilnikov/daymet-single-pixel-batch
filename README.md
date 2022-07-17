@@ -3,8 +3,7 @@ This repo contains methods for automating the download of multiple locations of 
 
 ### Methods
 1. [Bash](https://github.com/ornldaac/daymet-single-pixel-batch/tree/master/bash)
-2. [Java](https://github.com/ornldaac/daymet-single-pixel-batch/tree/master/java)
-3. [Python](https://github.com/ornldaac/daymet-single-pixel-batch/tree/master/python)
+2. [Python](https://github.com/ornldaac/daymet-single-pixel-batch/tree/master/python)
 
 
 ## Sample Text Files
