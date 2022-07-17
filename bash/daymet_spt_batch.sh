@@ -70,4 +70,6 @@ for key in "${!lats[@]}"; do
     downloadwName https://daymet.ornl.gov/single-pixel/api/data?lat=${lats[$key]}\&lon=${lons[$key]}\&measuredParams=$vars\&year=$years
   fi
 done
+mkdir results #after all results will be in this folder
+mv *.csv results
 echo ""
